@@ -20,6 +20,7 @@ black = "*"
 isort = "*"
 mypy = "*"
 jupyter = "*"
+deepchecks = {editable = true, git = "https://github.com/deepchecks/deepchecks"}
 
 [dev-packages]
 black = "*"
